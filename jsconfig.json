@@ -1,0 +1,10 @@
+// filepath: d:\Computer Science\Projects\youssra-portfolio\jsconfig.json
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+        "@/*": ["src/*"]
+        }
+    },
+    "include": ["src"]
+}

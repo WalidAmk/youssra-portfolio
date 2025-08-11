@@ -1,0 +1,180 @@
+{
+    "header": {
+        "name": "Youssra Farissi",
+        "description": "AI & Data Science Engineer"
+    },
+    "about": {
+        "title": "À propos de moi",
+        "roles" : "AI Engineer | Data Sciencist",
+        "description": "Je suis Youssra Farissi, ingénieure en Intelligence Artificielle et Data Science, passionnée par l’innovation technologique et l’analyse de données complexes. Dotée d’une forte capacité d’apprentissage et d’adaptation, je combine rigueur scientifique et créativité pour concevoir des solutions intelligentes à fort impact. Issue de l’École Nationale Supérieure d’Électricité et de Mécanique (ENSEM), majorante de ma promotion en Génie Logiciel et Digitalisation, je dispose également d’une solide formation en classes préparatoires filière MP/MPSI. Trilingue (arabe, français, anglais), je mets mes compétences techniques et mon ouverture culturelle au service de projets ambitieux en IA, data science et transformation digitale.",
+        "linkedin": "https://www.linkedin.com/in/youssra-farissi-a7840321b/",
+        "github": "https://github.com/Youssra-Farissi"
+        },
+    "skills": {
+        "title": "Mes compétences",
+        "description": "Voici un aperçu de mes compétences techniques et des outils que j'utilise dans mes projets.",
+        "items": {
+        "Langages": [
+            "PL/SQL",
+            "Python",
+            "PHP",
+            "Java",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "C/C++",
+            "Ocaml",
+            "React.Js"
+        ],
+        "Outils_et_Framework": {
+            "Web_dev": [
+            "Django",
+            "Flask",
+            "React.js",
+            "FastAPI",
+            "Flutterflow"
+            ],
+            "Data_AI": [
+            "Pandas",
+            "TensorFlow",
+            "PyTorch",
+            "NLP",
+            "LLM",
+            "AI & ML",
+            "RAG",
+            "CrewAI",
+            "TFT",
+            "Elasticsearch",
+            "Talend data",
+            "Excel",
+            "MCP"
+            ],
+            "DevOps_Others": [
+            "Docker",
+            "Jenkins",
+            "Git",
+            "Postman",
+            "Brightbox",
+            "Salesforce"
+            ],
+            "Visualization": [
+            "Power BI",
+            "Streamlit",
+            "Gradio"
+            ]
+        },
+        "Gestion_de_projets": [
+            "Scrum",
+            "Agile",
+            "Merise",
+            "UML",
+            "Trello",
+            "Ms project",
+            "Github",
+            "Taiga"
+        ]
+        }
+
+    },
+    "experiences": {
+        "title": "Mes expériences professionnelles",
+        "items": [
+            {
+            "title": "Ingénieure Logiciel en IA",
+            "company": "Deep Learn Strategies Limited",
+            "period": "06/2025 – Present",
+            "description": "",
+            "technologies": []
+            },
+            {
+            "title": "Stage de fin d'étude : Système Multi-Agents pour l’Analyse Financière et la Gestion de Portefeuille",
+            "company": "Deep Learn Strategies Limited",
+            "period": "2025/02 - 2025/05",
+            "description": "Développement d’une plateforme financière intelligente basée sur le framework CrewAI, incluant un tableau de bord de surveillance en temps réel des fusions et acquisitions, ainsi qu’un système d’optimisation de portefeuille utilisant des modèles TFT (Temporal Fusion Transformers) et des algorithmes génétiques. Intégration de techniques avancées d’apprentissage automatique pour l’analyse des investissements et l’aide à la prise de décision automatisée.",
+            "technologies": [
+                "Python",
+                "CrewAI",
+                "Nixtla",
+                "Pytorch",
+                "Algorithmes génétiques",
+                "Llamaparse",
+                "SerpAPi",
+                "Perplexity",
+                "yFinance",
+                "Flask",
+                "React.Js",
+                "Trello"
+            ]
+            },
+            {
+            "title": "Stage Industriel : Mise en place d'un système d'analyse des business plans & développement d'un chatbot",
+            "company": "Technopark Casablanca, Maroc",
+            "period": "06/2024 – 08/2024",
+            "description": "Conception et mise en place d'un système d'analyse automatisé des business plans, aligné sur les exigences spécifiques de Technopark, permettant une optimisation du processus de sélection des startups. Développement d'un chatbot interactif pour fournir des informations en temps réel.",
+            "technologies": [
+                "Python",
+                "LLaMA 3",
+                "Gradio",
+                "Fine-tuning",
+                "NLP",
+                "Quantisation",
+                "Mistral"
+            ]
+            },
+            {
+            "title": "Stage d'Initiation : Développement web",
+            "company": "Direction Provinciale de l'Habitat et de la Politique de la Ville, Settat, Maroc",
+            "period": "08/2023",
+            "description": "Conception et mise en place d'une plateforme de gestion des bénéficiaires.",
+            "technologies": [
+                "PHP",
+                "MySQL",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+            }
+    ]
+
+    },
+    "projects": {
+        "title": "Mes Projets réalisés",
+        "items": [
+        {
+            "project": "Analyse de documents financiers avec NLP",
+            "description": "Mise en place d’un pipeline d’analyse de sentiment (FinBERT, Reberstilla) et ESG (FinBERT ESG) à partir de documents financiers extraits via LLamaParse.",
+            "technologies": ["Python", "FastAPI", "FinBERT", "Reberstilla", "LLamaParse", "NLP", "ReactJs"]
+        },
+        {
+            "project": "Système multi-agent pour fitness",
+            "description": "Réalisation d'un système multi-agent pour fitness utilisant Langflow, AstraDB, RAG, Gemini API et Streamlit.",
+            "technologies": ["Langflow", "AstraDatabase", "RAG", "Gemini API", "Streamlit"]
+        },
+        {
+            "project": "Détection de logiciels malveillants à partir d'URLs",
+            "description": "Développement d'un système de détection de logiciels malveillants à partir d'URLs en utilisant Python et scikit-learn.",
+            "technologies": ["Python", "scikit-learn", "Random Forest", "FastAPI", "Docker"]
+        },
+        {
+            "project": "Classification des images IRM de l'anatomie humaine",
+            "description": "Développement d'un modèle de machine learning pour la classification des images IRM de l'anatomie humaine.",
+            "technologies": ["Yolov8"]
+        },
+        {
+            "project": "Système expert de diagnostic pour PC",
+            "description": "Mise en œuvre d'un système expert de diagnostic pour PC avec interface utilisateur graphique.",
+            "technologies": ["Python", "Tkinter"]
+        },
+        {
+            "project": "Application Android de gestion des tâches",
+            "description": "Développement d'une application Android pour la gestion des tâches avec base de données locale.",
+            "technologies": ["Java", "Android Studio", "SQLite"]
+        },
+        {
+            "project": "Site web e-commerce pour produits de maquillage",
+            "description": "Création d’un site web complet pour la vente de produits de maquillage avec gestion des utilisateurs, panier et paiement.",
+            "technologies": ["Django", "React.js", "PostgreSQL"]
+        }
+        ]
+    }
+}
