@@ -150,7 +150,7 @@ function getIcon(name) {
   }
 }
 
-export default function Skills() {
+export default function SkillsSection() {
   return (
     <div className="px-8 md:px-24 py-16 md:py-24 bg-primary">
       <h1 
