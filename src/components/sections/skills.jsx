@@ -1,5 +1,6 @@
 import React from "react";
 import content from "../../data/content.json";
+
 import {
   FaPython,
   FaJava,
@@ -154,7 +155,7 @@ export default function Skills() {
     <div className="px-8 md:px-24 py-16 md:py-24 bg-primary">
       <h1 
         className="text-3xl md:text-6xl font-bold mb-4 text-secondary text-center"
-      >{content.skills.title} </h1>
+      >{content.skills.title}</h1>
       <p
         className="text-xl text-white text-center mb-12"
       >{content.skills.description} </p>
