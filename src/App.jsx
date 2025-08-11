@@ -1,10 +1,10 @@
 
 import './App.css'
 import About from './components/sections/About'
-import Experiences from './components/sections/experiences'
+import Experiences from './components/sections/Experiences'
 import Header from './components/sections/Header'
-import Projects from './components/sections/projects'
-import Skills from './components/sections/skills'
+import Projects from './components/sections/Projects'
+import Skills from './components/sections/Skills'
 import Contact from './components/sections/Contact'
 
 function App() {
@@ -22,3 +22,4 @@ function App() {
 }
 
 export default App
+
